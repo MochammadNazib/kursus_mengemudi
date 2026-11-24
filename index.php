@@ -41,9 +41,9 @@ a:hover{background:#0d47a1;}
 <div class="login-box">
 <h2><i class="fa-solid fa-car"></i> Pilih Login</h2>
 
-<a href="admin/login.php">Login Admin</a>
-<a href="instruktur/login.php">Login Instruktur</a>
-<a href="peserta/login.php">Login Peserta</a>
+<a href="Admin/login.php">Login Admin</a>
+<a href="Instruktur/login.php">Login Instruktur</a>
+<a href="Peserta/login.php">Login Peserta</a>
 
 </div>
 
