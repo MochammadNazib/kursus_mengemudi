@@ -1,8 +1,8 @@
 <?php
-$host     = "sql205.infinityfree.com";
-$username = "if0_43516206";
-$password = "kelompok022"; // Segera ubah di panel InfinityFree
-$database = "if0_43516206_kelompok_kursus_mengemudi";
+$host     = "bsx0p450uhgeipdgr4pz-mysql.services.clever-cloud.com";
+$username = "ujohp2qfijqxzej3";
+$password = "keR82PZ786g9aP6sB78l"; // Segera ubah di panel InfinityFree
+$database = "bsx0p450uhgeipdgr4pz";
 $port     = 3306; // Tipe data integer (tanpa tanda kutip)
 
 // Aktifkan pelaporan error saat tahap pengembangan (opsional)
